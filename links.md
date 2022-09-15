@@ -16,4 +16,8 @@ permalink: /LINKS/
 
 ## Week 01
 
+1. [What is a Virtual Machine?](https://blog.stackpath.com/virtual-machine/)<br>
 
+2. [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)<br>
+
+3. [Vim Basic Commands](https://vim.rtorr.com/)
