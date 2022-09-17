@@ -23,13 +23,13 @@ permalink: /LINKS/
 3. [Vim Basic Commands](https://vim.rtorr.com/)
 
 ## Week 02
-1. [S Week 02 Assignment #1: Readings, Watchings, and Demos](https://osp4diss.vlsm.org/W01-03.html)<br>
+1. [OS Week 02 Assignment #1: Readings, Watchings, and Demos](https://osp4diss.vlsm.org/W01-03.html)<br>
 
 2. [Fundamentals of C Programming](https://www.researchgate.net/publication/342640273_Fundamentals_of_C_Programming)<br>
 
 3. [GNU Privacy Guard](https://lms.onnocenter.or.id/wiki/index.php/GNU_Privacy_Guard)<br>
 
-4. [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn](https://www.youtube.com/watch?v=inWWhr5tnEA)<br>
+4. [Cyber Security In 7 Minutes, What Is Cyber Security: How It Works?](https://www.youtube.com/watch?v=inWWhr5tnEA)<br>
 
 5. [Cybersecurity: Crash Course Computer Science #31](https://www.youtube.com/watch?v=bPVaOlJ6ln0)<br>
 
