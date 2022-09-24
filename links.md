@@ -33,3 +33,13 @@ permalink: /LINKS/
 
 5. [Cybersecurity: Crash Course Computer Science #31](https://www.youtube.com/watch?v=bPVaOlJ6ln0)<br>
 
+## Week 03
+1. [Understanding The File System Interface](https://root.cern.ch/TaligentDocs/TaligentOnline/DocumentRoot/1.0/Docs/books/OS/OS_67.html#:~:text=The%20file%20system%20interface%20enables,protocol%20for%20file%20system%20entities.)<br>
+
+2. [Unified Buffer Cache](http://www.mallorn.com/People/lindsey/test/c0504.htm)<br>
+
+3. [What is Virtual File System](https://www.techtarget.com/searchitoperations/definition/virtual)<br>
+
+4. [File System Implementation in Operating System](https://www.geeksforgeeks.org/file-system-implementation-in-operating-system/)<br>
+
+5. [Memory Structure - an Overview](https://www.sciencedirect.com/topics/computer-science/memory-structure)<br>
