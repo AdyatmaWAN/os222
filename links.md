@@ -43,3 +43,10 @@ permalink: /LINKS/
 4. [File System Implementation in Operating System](https://www.geeksforgeeks.org/file-system-implementation-in-operating-system/)<br>
 
 5. [Memory Structure - an Overview](https://www.sciencedirect.com/topics/computer-science/memory-structure)<br>
+
+##Week 04
+1. [Learn Makefiles With the tastiest examples](https://makefiletutorial.com/)<br>
+
+2. [Pointers in C](https://linuxhint.com/use-pointers-c/)<br>
+
+3. [A guide to understanding Linux software libraries in C](https://opensource.com/article/21/2/linux-software-libraries)<br>

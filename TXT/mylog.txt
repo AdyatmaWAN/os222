@@ -44,4 +44,17 @@ ZCZC W03 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W03 45 L40 TXT/ related in general.
 ZCZC W03 90 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 60 L05 Quiz related including studying
+ZCZC W04 60 L05 Quiz related including studying
+ZCZC W04 45 L40 TXT/ related in general.
+ZCZC W04 120 L02 ZOOM meetings related
+ZCZC W04 120 L02 ZOOM meetings related
+ZCZC W04 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W04 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 60 L14 Assignment #04
+ZCZC W04 60 L07 Demo related
+ZCZC W04 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 60 L24 Scripting in general.
+ZCZC W04 60 L25 C-language including Make.
+ZCZC W04 45 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W04 45 L26 GnuPG, key-gen, encrypt/decrypt.
 
