@@ -68,4 +68,14 @@ ZCZC W05 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 45 L40 TXT/ related in general.
 ZCZC W05 60 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W05 30 L32 YouTube: watching OS related topics, etc.
-
+ZCZC W06 75 L16 Assignment #06 
+ZCZC W06 60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W06 120 L02 ZOOM meetings related
+ZCZC W06 120 L02 ZOOM meetings related
+ZCZC W06 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 60 L05 Quiz related including studying
+ZCZC W06 30 L07 Demo related
+ZCZC W06 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 45 L40 TXT/ related in general.
+ZCZC W06 60 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W06 30 L32 YouTube: watching OS related topics, etc.
